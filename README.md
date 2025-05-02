@@ -441,19 +441,5 @@ Verify JDK 21 is used.
 
 
 
-Deliverables
 
-Source Files: MatrixCalculator and MatrixClient projects.
-WSDL File: MatrixCalculator.wsdl.
-Screenshots: Eclipse setup, console outputs, SoapUI tests.
-Report: MatrixCalculatorReport.pdf (includes steps and screenshots).
-README: This file (README.md).
-
-Contact
-For issues or questions, contact:
-
-Name: Ben Amar Mohamed Aziz
-Email: [Your email, if applicable]
-Institution: Université de Sfax, ISSAT Sfax
-GitHub: [Your GitHub profile or repository link, if applicable]
 
